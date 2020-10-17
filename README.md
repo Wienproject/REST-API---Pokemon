@@ -1,4 +1,4 @@
-# REST-API-Exercise---POKEMON
+# REST-API----POKEMON
 You can get data from your favorite's pokemon :D
 
 All the Pokémon data you'll ever need in one place
